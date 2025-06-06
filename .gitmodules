@@ -1,0 +1,48 @@
+[submodule "ArduinoCore-API"]
+	path = ArduinoCore-API
+	url = https://github.com/arduino/ArduinoCore-API.git
+[submodule "system/AT32F435_437_Firmware_Library"]
+	path = system/AT32F435_437_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F435_437_Firmware_Library.git
+[submodule "system/AT32F403A_407_Firmware_Library"]
+	path = system/AT32F403A_407_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F403A_407_Firmware_Library.git
+[submodule "system/AT32F415_Firmware_Library"]
+	path = system/AT32F415_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F415_Firmware_Library.git
+[submodule "system/AT32F402_405_Firmware_Library"]
+	path = system/AT32F402_405_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F402_405_Firmware_Library.git
+[submodule "system/AT32F421_Firmware_Library"]
+	path = system/AT32F421_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F421_Firmware_Library.git
+[submodule "system/AT32F413_Firmware_Library"]
+	path = system/AT32F413_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F413_Firmware_Library.git
+[submodule "system/AT32F425_Firmware_Library"]
+	path = system/AT32F425_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F425_Firmware_Library.git
+[submodule "system/AT32F423_Firmware_Library"]
+	path = system/AT32F423_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F423_Firmware_Library.git
+[submodule "system/AT32F403_Firmware_Library"]
+	path = system/AT32F403_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F403_Firmware_Library.git
+[submodule "system/AT32A423_Firmware_Library"]
+	path = system/AT32A423_Firmware_Library
+	url = https://github.com/ArteryTek/AT32A423_Firmware_Library.git
+[submodule "system/AT32F490_Firmware_Library"]
+	path = system/AT32F490_Firmware_Library
+	url = https://github.com/ArteryTek/AT32F490_Firmware_Library.git
+[submodule "system/AT32WB415_Firmware_Library"]
+	path = system/AT32WB415_Firmware_Library
+	url = https://github.com/ArteryTek/AT32WB415_Firmware_Library.git
+[submodule "system/AT32L021_Firmware_Library"]
+	path = system/AT32L021_Firmware_Library
+	url = https://github.com/ArteryTek/AT32L021_Firmware_Library.git
+[submodule "system/AT32A403A_Firmware_Library"]
+	path = system/AT32A403A_Firmware_Library
+	url = https://github.com/ArteryTek/AT32A403A_Firmware_Library.git
+[submodule "system/AT32M412_416_Firmware_Library"]
+	path = system/AT32M412_416_Firmware_Library
+	url = https://github.com/ArteryTek/AT32M412_416_Firmware_Library.git
