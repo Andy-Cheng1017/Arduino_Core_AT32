@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "arduino.h": "c",
+        "at32_device.h": "c",
+        "at32f403a_407_crm.h": "c",
+        "at32f403a_407.h": "c",
+        "at32f403a_407_gpio.h": "c",
+        "at32f403a_407_conf.h": "c",
+        "arduinoapi.h": "c",
+        "common.h": "c"
+    }
+}

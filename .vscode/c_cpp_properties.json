@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "system/AT32F403A_407_Firmware_Library/libraries/cmsis/cm4/core_support",
+                "system/AT32F403A_407_Firmware_Library/libraries/cmsis/cm4/device_support",
+                "system/AT32F403A_407_Firmware_Library/libraries/drivers/inc",
+                "system/AT32F403A_407_Firmware_Library/libraries/drivers/src",
+                "ArduinoCore-API/api",
+                "/usr/lib/gcc/arm-none-eabi/13.2.1/include",
+                "/usr/lib/gcc/arm-none-eabi/13.2.1/include-fixed",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "system/AT32F403A_407_Firmware_Library/libraries/cmsis/cm4/core_support",
+                    "system/AT32F403A_407_Firmware_Library/libraries/cmsis/cm4/device_support",
+                    "system/AT32F403A_407_Firmware_Library/libraries/drivers/inc",
+                    "system/AT32F403A_407_Firmware_Library/libraries/drivers/src",
+                    "ArduinoCore-API/api",
+                    "/usr/lib/gcc/arm-none-eabi/13.2.1/include",
+                    "/usr/lib/gcc/arm-none-eabi/13.2.1/include-fixed",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60118",
+                "AT_START_F407",
+                "CDU_RS485",
+                "F_CPU=240000000L",
+                "AT32F407VGT7",
+                "USE_STDPERIPH_DRIVER",
+                "DEBUG",
+                "__PLATFORMIO_BUILD_DEBUG__",
+                "MCU_AT32F403A_407"
+            ],
+            "compilerArgs": [
+                "-mfloat-abi=softfp",
+                "-mfpu=fpv4-sp-d16",
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
